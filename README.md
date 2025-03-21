@@ -7,7 +7,7 @@ NCAA Football
 
 Group 5
 - [Gisel Hernandez](https://github.com/giselhernandezv/MIST-4610-PROJECT-1)
-- Ansley Hankinson
+- [Ansley Hankinson](https://github.com/ansleyhankinson/4610project1/blob/main/README.md)
 - Lukas Cornish
 - Malhar Sethia
 - Samuel White
