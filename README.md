@@ -6,7 +6,7 @@ NCAA Football
 **Team Members and Names**
 
 Group 5
-- [Gisel Hernandez]https://github.com/giselhernandezv/MIST-4610-PROJECT-1
+- [Gisel Hernandez](https://github.com/giselhernandezv/MIST-4610-PROJECT-1)
 - Ansley Hankinson
 - Lukas Cornish
 - Malhar Sethia
